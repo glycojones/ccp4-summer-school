@@ -1,0 +1,115 @@
+/* Stylesheet for CCP4 pages */
+
+/*body { background-color: #3399cc; */
+body { background-color: #ffaa66; 
+       font-family: "Lucida Grande", "Luxi Sans", "Bitstream Vera Sans",
+       "Trebuchet MS", helvetica, verdana, arial, sans-serif;
+       margin-left: 0;
+       margin-right: 0;
+       margin-top: 0; }
+
+/* Links */
+a:link    { color: #005A7B; }
+a:visited { color: #660000; }
+
+/* Header */
+.pageHeaderAlt { background-color: white;
+	      border-width: 0;
+              color: black;
+              text-align: center; }
+
+/* Navigation bar */
+.navigationBar { background-color: #999999;
+                    width: 100%; }
+.navigationBar th { background-image:
+                        url(../images/navbar/lightgrey_white.gif);
+                    background-color: #aaaaaa;
+	            border-style: solid;
+                    border-width: 1px;
+                    border-bottom-color: #777777;
+                    border-top-color: #777777;
+                    border-right-color: #dddddd;
+                    border-left-color: #555555; }
+.navigationBar a { text-decoration: none; }
+
+/* Ticker tape */
+.tickerContainer { background-color:#FFCC66;
+                   color:#009A7B; }
+.tickerContainer a { color:#009A7B; }
+.tickerContainer a:visited { color: #009A7B; }
+
+/* Page content */
+.pageBody { margin-left: 30px;
+            margin-right: 30px;
+            background-color: #ffeedd;
+            padding: 10px; }
+
+/* Resources */
+.resourcesContainer { background-colour: #ffa500;
+                      border-color: #660000;
+                      border-style: none;
+	              border-width: 2px;
+                      margin-bottom: 5px;
+                      margin-left: 10px; }
+.resourcesTitle { background-color: #660000;
+	        color: white;
+                font-weight: bold;
+                padding: 1px;
+                padding-left: 5px; }
+.resourcesBody { padding: 10px; }
+
+/* Sections */
+.sectionContainer { background-color: white;
+	            border-style: solid;
+	            border-color: #015979;
+                    border-width: 2px;
+                    padding: 0;
+                    margin-bottom:8px;
+                    margin-right: 10px;
+	            margin-left: 10px; }
+.sectionTitle { background-color: #015979;
+	        color: white;
+                font-weight: bold; }
+.sectionBody { padding: 5px;
+               font-size: 90%; }
+
+/* Tables */
+table.simpleTable th { background-color: lightgrey; }
+table.simpleTable td { border-bottom: 1px solid darkgrey; }
+
+/* Staff pages */
+.staff { cell-spacing: 5px;
+         cell-padding: 2px; }
+.staff td { background-color: orange; }
+
+.developers { cell-spacing: 5px;
+         cell-padding: 2px; }
+.developers td { background-color: #ffeedd; }
+
+.people { background-color: #cfcdff; }
+
+/* Highlighting headings */
+
+h1 { background-color: #015979;
+	        color: white;
+                font-weight: bold;
+     		padding: 5px;
+     		text-align: center;
+		border-width: 4px;
+		border-color: white;
+		border-top-style: solid;
+		border-bottom-style: solid;
+		border-color: white; }
+
+h2 { background-color: #ececec;
+     background-image: url(../images/navbar/lightgrey_white.gif);
+     padding-left: 4px;  }
+
+h3a { color: white;
+     background-color: green;
+     padding-left: 4px; }
+
+h3 { color: black;
+     background-color: #ff9933;
+     padding-left: 4px; }
+
