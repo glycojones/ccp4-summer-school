@@ -14,11 +14,10 @@ include("includes/banner.php");
 ?>
 
 <div class="pageBody">
-
-<img width="100%" src="images/UoY_pano.jpg" /></th>
-
 <h2>The University of York - Campus West</h2> 
+<img width="100%" src="images/annotated_map.png" /></th>
 <p>
+Getting here is easy by both private and public methods of transportation. Click <a href="https://www.york.ac.uk/about/transport-maps-parking/"><b>here</b></a> to get directions. 
 </p>
 
 <?PHP

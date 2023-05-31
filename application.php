@@ -15,15 +15,10 @@ include("includes/banner.php");
 
 <div class="pageBody">
 
-<img width="100%" src="images/protein1-crop.jpg" /></th>
+<img width="100%" src="images/UoY_pano.jpg" /></th>
 
-<h2>Application Information</h2>
-<p style="color:red"><i><b>Coming soon!</b></i></p>
-<!--p><b>Applications were handled <a href=http://www.diamond.ac.uk/Home/Events/2014/Diamond-CCP4-Data-Collection-and-Analysis-workshop.html>here</a>
- at the Diamond Events page.</b></p-->
-
-<!--p><b>Please note, students must be prepared to submit the e-mail address of a supervisor who will
-write a letter of recommendation to support their application.</b></p-->
+<h2>Information for applicants</h2>
+<p style="color:red"><i><b>Registration is not open yet. Stay tuned to the CCP4bb, where we will be announcing the school in due course.</b></i></p>
 
 <?PHP
 // Include the sponsor logos
