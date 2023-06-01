@@ -49,17 +49,19 @@ include("includes/banner.php");
   <p>In response to inappropriate behaviour (e.g. sexual content, rudeness, unprofessional) organisers may take any action they deem appropriate, 
      including warning the person in question, asking them to leave the event, or removing them from a mailing list.</p>
   <p>Specific actions may include but are not limited to:</p>
-  <li>asking the person to cease the inappropriate behaviour, and warning them that any further reports will result in other sanctions
-  <li>requiring that the person avoid any interaction with, and physical proximity to, another person for the remainder of the event
-  <li>early termination of a talk that violates the policy
-  <li>not publishing the video or slides of a talk that violates the policy
-  <li>not allowing a speaker who violated the policy to give (further) talks at the event
-  <li>immediately ending any event responsibilities or privileges held
-  <li>requiring that the person immediately leave the event and not return
-  <li>blocking the person on social media platforms (for a defined time period)
-  <li>banning the person from future events (for a defined time period)
-  <li>publishing an anonymous account of the harassment
-  <li>reporting the incident to the person’s employer
+  <ul>
+      <li>asking the person to cease the inappropriate behaviour, and warning them that any further reports will result in other sanctions
+      <li>requiring that the person avoid any interaction with, and physical proximity to, another person for the remainder of the event
+      <li>early termination of a talk that violates the policy
+      <li>not publishing the video or slides of a talk that violates the policy
+      <li>not allowing a speaker who violated the policy to give (further) talks at the event
+      <li>immediately ending any event responsibilities or privileges held
+      <li>requiring that the person immediately leave the event and not return
+      <li>blocking the person on social media platforms (for a defined time period)
+      <li>banning the person from future events (for a defined time period)
+      <li>publishing an anonymous account of the harassment
+      <li>reporting the incident to the person’s employer
+  </ul>
 
 
 <?PHP
