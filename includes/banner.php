@@ -6,7 +6,7 @@
     </div>
     <nav>
         <a href="index.php">Home</a>
-        <a href="programme.php">School programme</a>
+        <a href="programme.php">Programme</a>
         <a href="accommodation.php">Accommodation</a>
         <a href="location.php">Location</a>
         <a href="social.php">Social activities</a>
