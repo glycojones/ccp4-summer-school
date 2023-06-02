@@ -27,11 +27,6 @@ header {
     background-color: white;
 }
 
-header img {
-    display: block;
-    max-width: 100%;
-}
-
 /* Navigation bar */
 
 nav {
@@ -88,6 +83,13 @@ h3 {
     color: black;
     background-color: #ff9933;
     padding-left: 4px;
+}
+
+/* Images */
+
+img {
+    display: block;
+    max-width: 100%;
 }
 
 /* Spaced content (organisers and sponsers) */
