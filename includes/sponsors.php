@@ -1,4 +1,4 @@
-<p style="text-align:center">Additional support:</p>
+<p style="text-align:center; margin-bottom:0">Additional support:</p>
 <div class="spaced">
    <a href="http://www.bbsrc.ac.uk"><img src="images/ukri-bbsrc.png" height=54></a>
    <!-- <a href="http://www.diamond.ac.uk"><img src="images/dls_weblogo.jpg" height=50></a> -->
