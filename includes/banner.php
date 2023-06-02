@@ -1,15 +1,7 @@
 <header>
-    <div class="logos">
-        <a href="http://www.ccp4.ac.uk"><img src="images/ccp4_weblogo.png" alt="" height="80px"></a>
-        <a href="https://www.crystallography.org.uk/about/"><img src="images/bcalogo.gif" alt="" height="80px"></a>
-    </div>
-    <p class="title">
-        Collaborative Computational Project No. 4<br>
-        Software for Macromolecular X-Ray Crystallography
-    </p>
-    <div class="logos">
-        <a href="https://www.york.ac.uk"><img src="images/UoY_logo.png" alt="" height="60px" /></a>
-    </div>
+    <a href="http://www.ccp4.ac.uk"><img src="images/ccp4_weblogo.png" alt="" height="80px"></a>
+    <a href="https://www.crystallography.org.uk/about/"><img src="images/bcalogo.gif" alt="" height="80px"></a>
+    <a href="https://www.york.ac.uk"><img src="images/UoY_logo.png" alt="" height="60px" /></a>
 </header>
 
 <nav>

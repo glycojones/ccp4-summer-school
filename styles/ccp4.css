@@ -26,31 +26,16 @@ a:visited {
 
 header {
     background-color: white;
-    padding: 0 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
     padding: 10px;
     gap: 10px;
 }
 
-header .title {
-    flex: 1;
-    text-align: center;
-    word-wrap: normal;
-    font-size: x-large;
-    font-weight: bold;
-    margin: 0;
-}
-
-header .logos {
-    width: min(387px, 100%);
-    display: flex;
-    justify-content: space-between;
-}
-
 header img {
+    display: block;
     max-width: 100%;
 }
 
