@@ -21,21 +21,21 @@
         <img width="200px" src="images/organisers/johan_turkenburg.jpg">
         <p>
           <b>Johan Turkenburg</b><br>
-          johan.turkenburg@york.ac.uk
+          <a href="mailto:johan.turkenburg@york.ac.uk">johan.turkenburg@york.ac.uk</a>
         </p>
       </div>
       <div>
         <img width="200px" src="images/organisers/jon_agirre.jpg">
         <p>
           <b>Jon Agirre</b><br>
-          jon.agirre@york.ac.uk
+          <a href="mailto:jon.agirre@york.ac.uk">jon.agirre@york.ac.uk</a>
         </p>
       </div>
       <div>
         <img width="200px" src="images/organisers/paul_bond.jpg">
         <p>
           <b>Paul Bond</b><br>
-          paul.bond@york.ac.uk
+          <a href="mailto:paul.bond@york.ac.uk">paul.bond@york.ac.uk</a>
         </p>
       </div>
     </div>
