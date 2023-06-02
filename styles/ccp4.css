@@ -41,6 +41,7 @@ header .title {
     word-wrap: normal;
     font-size: x-large;
     font-weight: bold;
+    margin: 0;
 }
 
 header .logos {
