@@ -5,6 +5,13 @@
   <title>CCP4-BCA Summer School 2023 (University of York, UK)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="styles/ccp4.css" />
+  <style>
+    .organiser {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  </style>
 </head>
 
 <body>
@@ -17,21 +24,21 @@
       including registration, programme, or accommodation.
     </p>
     <div class="spaced">
-      <div>
+      <div class="organiser">
         <img width="200px" src="images/organisers/johan_turkenburg.jpg">
         <p>
           <b>Johan Turkenburg</b><br>
           <a href="mailto:johan.turkenburg@york.ac.uk">johan.turkenburg@york.ac.uk</a>
         </p>
       </div>
-      <div>
+      <div class="organiser">
         <img width="200px" src="images/organisers/jon_agirre.jpg">
         <p>
           <b>Jon Agirre</b><br>
           <a href="mailto:jon.agirre@york.ac.uk">jon.agirre@york.ac.uk</a>
         </p>
       </div>
-      <div>
+      <div class="organiser">
         <img width="200px" src="images/organisers/paul_bond.jpg">
         <p>
           <b>Paul Bond</b><br>
