@@ -10,16 +10,16 @@
 <body>
   <?PHP include("includes/banner.php"); ?>
   <main>
-    <img width="100%" src="images/UoY_pano.jpg" />
+    <img width="100%" src="images/panorama.jpg" />
     <h2>The CCP4-BCA Summer School returns to the North!</h2>
     <p>
       It is a great pleasure to announce the return of the CCP4-BCA Summer School on
       macromolecular crystallography and associated techniques. Running for the first
       time since the COVID-19 pandemic, the school aims to bring together early-career
       scientists from the UK, Europe and beyond and train them in the latest advances
-      in structural biology, with a primary focus on macromolecular crystallography. 
-      The school, which was formerly run at the University of St. Andrews for many years, 
-      has trained hundreds of crystallographers while also providing them with unforgettable 
+      in structural biology, with a primary focus on macromolecular crystallography.
+      The school, which was formerly run at the University of St. Andrews for many years,
+      has trained hundreds of crystallographers while also providing them with unforgettable
       collective memories. The York team aims to capture and continue the essence and tradition
       of the school, blending it with the best the City of York has to offer.
     </p>
