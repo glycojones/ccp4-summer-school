@@ -1,7 +1,7 @@
 <header>
     <div class="spaced">
         <a href="https://www.ccp4.ac.uk"><img src="images/logos/ccp4.png" alt="" height="80px"></a>
-        <a href="https://crystallography.org.uk/about/"><img src="images/logos/bca.gif" alt="" height="80px"></a>
+        <a href="https://crystallography.org.uk"><img src="images/logos/bca.gif" alt="" height="80px"></a>
         <a href="https://york.ac.uk"><img src="images/logos/uoy.png" alt="" height="60px" /></a>
     </div>
     <nav>
