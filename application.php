@@ -12,14 +12,13 @@
   <main>
     <div class="campus"></div>
     <h2>Information for applicants</h2>
-    <p style="color:red">
-      <i>
-        <b>
-          Registration is not open yet.
-          Stay tuned to the CCP4bb,
-          where we will be announcing the school in due course.
-        </b>
-      </i>
+    <p>Prices: £475 for external applicants (includes accommodation) and £225 for York students.</p>
+    <p>Please send your application to <a href="mailto:jon.agirre@york.ac.uk">jon.agirre@york.ac.uk</a> and include:
+      <ul>
+        <li>An <b>email address</b> we can use to contact your <b>supervisor/line manager</b> to make sure they are onboard with it.</li>
+        <li>An up to date <b>CV</b> (PDF format). Education, list of publications, meetings attended, and employment history. We're sure we'll learn about your hobbies at the school.</li>
+        <li>A <b>motivation letter</b> (PDF format). A one-pager really. Please tell us why you think attending will be important for your future.</li>
+      </ul> 
     </p>
   </main>
   <?PHP include("includes/sponsors.php"); ?>
