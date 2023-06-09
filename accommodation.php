@@ -10,7 +10,7 @@
 <body>
   <?PHP include("includes/banner.php"); ?>
   <main>
-    <img width="100%" src="images/panorama.jpg" />
+    <div class="campus"></div>
     <h2>Accommodation</h2>
     <p>
       Rooms for both students and speakers have been arranged

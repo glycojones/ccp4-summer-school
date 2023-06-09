@@ -92,6 +92,16 @@ img {
     max-width: 100%;
 }
 
+.campus {
+    aspect-ratio: 4 / 1;
+    min-height: 150px;
+    max-width: 100%;
+    background-image: url("https://features.york.ac.uk/who-we-are/assets/lhWDzQ1tM0/greg-s-place-2560x1709.jpeg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+}
+
 /* Spaced content (organisers and sponsers) */
 
 .spaced {

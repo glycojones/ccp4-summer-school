@@ -10,7 +10,7 @@
 <body>
   <?PHP include("includes/banner.php"); ?>
   <main>
-    <img width="100%" src="images/panorama.jpg" />
+    <div class="campus"></div>
     <h2>The CCP4-BCA Summer School returns to the North!</h2>
     <p>
       It is a great pleasure to announce the return of the CCP4-BCA Summer School on

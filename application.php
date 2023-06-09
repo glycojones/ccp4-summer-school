@@ -10,7 +10,7 @@
 <body>
   <?PHP include("includes/banner.php"); ?>
   <main>
-    <img width="100%" src="images/panorama.jpg" />
+    <div class="campus"></div>
     <h2>Information for applicants</h2>
     <p style="color:red">
       <i>
