@@ -31,6 +31,20 @@
     </ul>
     </p>
     <p>Applications must be received by <b>5th July 2023</b>.</p>
+    <h2>Bursaries</h2>
+    <p>
+      Fees for up to 10 BBSRC funded attendees
+      will be covered by generous support from the BBSRC.
+    </p>
+    <p>
+      There are also a limited number of bursaries available from the BCA to cover fees,
+      with the option to join the BCA for free.
+    </p>
+    <p>
+      Please state on your application
+      if you are funded by the BBSRC
+      or are only able to attend the school with the help of a bursary.
+    </p>
   </main>
   <?PHP include("includes/sponsors.php"); ?>
 </body>
