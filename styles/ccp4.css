@@ -27,6 +27,21 @@ header {
     background-color: white;
 }
 
+header img {
+    height: 80px;
+}
+
+/* Footer */
+
+footer img {
+    width: 250px;
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 0;
+}
+
 /* Navigation bar */
 
 nav {
