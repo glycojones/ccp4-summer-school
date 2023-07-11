@@ -18,6 +18,6 @@
 </header>
 <h1>
     CCP4-BCA Summer School 2023
-    (York, UK) 
-    <i>19-25 August 2023. Deadline: 5th July 2023</i>
+    (York, UK)
+    <i>19-25 August 2023. Deadline: 14th July 2023</i>
 </h1>

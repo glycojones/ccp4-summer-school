@@ -30,7 +30,7 @@
       </li>
     </ul>
     </p>
-    <p>Applications must be received by <b>5th July 2023</b>.</p>
+    <p>Applications must be received by <b>14th July 2023</b>.</p>
     <h2>Bursaries</h2>
     <p>
       Fees for up to 10 BBSRC funded attendees
