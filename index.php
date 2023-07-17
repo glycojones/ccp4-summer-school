@@ -52,13 +52,13 @@
         More details and directions
       </a>
     </p>
-    <p>
+    <!--<p>
       Spaces are limited.
       The applicant will have to demonstrate the need
       for this sort of specialist training,
       and be prepared to submit the <b>e-mail address of a supervisor</b>
       who will write a <b>letter of recommendation</b> in support of their application.
-    </p>
+    </p>-->
     <p>We look forward to welcoming you in York this summer!</p>
     <p>
       The organisers,<br>

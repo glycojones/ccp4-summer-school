@@ -12,7 +12,8 @@
   <main>
     <div class="campus"></div>
     <h2>Information for applicants</h2>
-    <p>The cost for the school is £475 (includes meals and accommodation).</p>
+    <p>The 2023 round of applications is now closed. Good luck to all applicants!</p>
+    <!--<p>The cost for the school is £475 (includes meals and accommodation).</p>
     <p>Please send your application to <a href="mailto:jon.agirre@york.ac.uk">jon.agirre@york.ac.uk</a> and include:
     <ul>
       <li>
@@ -44,7 +45,7 @@
       Please state on your application
       if you are funded by the BBSRC
       or are only able to attend the school with the help of a bursary.
-    </p>
+    </p>-->
   </main>
   <?PHP include("includes/sponsors.php"); ?>
 </body>
