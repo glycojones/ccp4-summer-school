@@ -32,7 +32,8 @@
         <h2>Summer cèilidh</h2>
         <img src="https://static.wixstatic.com/media/bbadd8_7c39e4ba56344512a525a80abcec6588~mv2.jpg/v1/fill/w_1026,h_770,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOH-Ceilidh-271.jpg"></img>
         <p>A cèilidh is a traditional Scottish and Irish social event involving dancing and live folk music. The English variant of a cèilidh introduced a "caller", a musician who shows dancers the next dance move. 
-           Callers usually have a very good understanding of the rhythms involved in songs and different types UK regional dances, allowing them to pick the right tune and dance for every audience.
+           Callers usually have a very good understanding of the rhythms involved in songs and different types UK regional dances, allowing them to pick the right tune and dance for every audience. We are lucky to 
+           have wonderful local cèilidh musicians: <a href="https://www.newfoxband.co.uk">The New Fox Band</a> will play a couple of sets for us in what promises to be an unforgettable night.
         </p>
         <p>
           <b>Monday 21, 19:30 - 23:00 in James College Hall.</b>
