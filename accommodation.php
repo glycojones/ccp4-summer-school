@@ -14,8 +14,8 @@
     <h2>Accommodation</h2>
     <p>
       Rooms for both students and speakers have been arranged
-      at Donald Barron court, in Vanbrugh College.
-      The registration fee for non-York students includes accommodation and catering.
+      at Donald Barron Court (Block A) in Vanbrugh College.
+      There are registration fees including and excluding accommodation.
     </p>
   </main>
   <?PHP include("includes/sponsors.php"); ?>
