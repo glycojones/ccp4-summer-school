@@ -16,9 +16,13 @@
       There are registration fees including and excluding accommodation.
       Accommodation for both students and speakers has been arranged
       in James College (Block L) on campus.
-      You can check in from 13:00 at Vanbrugh college reception,
+      Check-in is from 13:00 on the day of arrival.
+      If you are arrive at the weekend,
+      please check in at Vanbrugh College reception,
       which is located in the Information Centre.
-      Please see the <a href="location.php">Location page</a> for a map.
+      If you arrive during the week,
+      please check in at James College reception.
+      See the <a href="location.php">Location page</a> for a map.
     </p>
   </main>
   <?PHP include("includes/sponsors.php"); ?>
