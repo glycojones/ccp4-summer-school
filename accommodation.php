@@ -13,9 +13,12 @@
     <div class="campus"></div>
     <h2>Accommodation</h2>
     <p>
-      Rooms for both students and speakers have been arranged
-      at Donald Barron Court (Block A) in Vanbrugh College.
       There are registration fees including and excluding accommodation.
+      Accommodation for both students and speakers has been arranged
+      in James College (Block L) on campus.
+      You can check in from 13:00 at Vanbrugh college reception,
+      which is located in the Information Centre.
+      Please see the <a href="location.php">Location page</a> for a map.
     </p>
   </main>
   <?PHP include("includes/sponsors.php"); ?>
