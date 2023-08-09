@@ -141,7 +141,7 @@
           <td class="time">11:00</td>
           <td>
             <div class="what">Diffraction theory</div>
-            <div class="who">Kevin Cowtan (York)</div>
+            <div class="who">K Cowtan (York)</div>
             <div class="where">B/K/018</div>
           </td>
         </tr>
