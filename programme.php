@@ -241,7 +241,7 @@
           </td>
         </tr>
         <tr>
-          <td class="time">14:30</td>
+          <td class="time">14:15</td>
           <td>
             <div class="what">Scaling/merging workshop</div>
             <div class="who">Johan Turkenburg (York)</div>
