@@ -221,22 +221,30 @@
           <td class="time">12:00</td>
           <td>
             <div class="what">Lunch</div>
-            <div class="where">James Hall</div>
+            <div class="where">Biology Atrium</div>
           </td>
         </tr>
         <tr>
-          <td class="time">12:45</td>
+          <td class="time">12:30</td>
           <td>
-            <div class="what">Scaling/merging lecture/workshop</div>
+            <div class="what">Scaling/merging</div>
             <div class="who">Johan Turkenburg (York)</div>
-            <div class="where">G/169 PC Room</div>
+            <div class="where">B/K/018</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="time">13:30</td>
+          <td>
+            <div class="what">Data pathologies</div>
+            <div class="who">Eleanor Dodson (York)</div>
+            <div class="where">B/K/018</div>
           </td>
         </tr>
         <tr>
           <td class="time">14:30</td>
           <td>
-            <div class="what">Data pathologies</div>
-            <div class="who">Eleanor Dodson (York)</div>
+            <div class="what">Scaling/merging workshop</div>
+            <div class="who">Johan Turkenburg (York)</div>
             <div class="where">G/169 PC Room</div>
           </td>
         </tr>
