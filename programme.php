@@ -235,7 +235,7 @@
         <tr>
           <td class="time">13:30</td>
           <td>
-            <div class="what">Data pathologies</div>
+            <div class="what">Data complexities</div>
             <div class="who">Eleanor Dodson (York)</div>
             <div class="where">B/K/018</div>
           </td>
