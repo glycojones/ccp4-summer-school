@@ -25,6 +25,13 @@
       streets from Viking times (e.g. Fossgate),
       wonderful museums, the Minster, exclusive independent shops, Shambles market...
     </p>
+    <p>
+      See
+      <a href="https://www.google.com/maps/d/u/0/edit?mid=1dADqsVwNboS_9Q3V-u7VAhm44STo_68&usp=sharing">this map</a>
+      for some locations.
+      There is a nice walk on the city walls between Monk Bar and Bootham Bar
+      which closes at dusk (8pm in August).
+    </p>
     <p><b>Saturday 19th, 19:30 &ndash; 23:00.</b></p>
     <h3>Summer cèilidh</h3>
     <img width="600px" src="https://static.wixstatic.com/media/bbadd8_7c39e4ba56344512a525a80abcec6588~mv2.jpg/v1/fill/w_1026,h_770,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOH-Ceilidh-271.jpg"></img>
