@@ -27,6 +27,12 @@
       </a>
       page for more details.
     </p>
+    <p>
+      For the workshops in the PC Room (G/N/169),
+      please use the door in the picture below.
+      Go up the stairs on the left, then the PC room is through the doors on the left.
+    </p>
+    <img width="800px" src="images/door.jpg" alt="">
   </main>
   <?PHP include("includes/sponsors.php"); ?>
 </body>
