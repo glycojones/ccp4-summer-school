@@ -576,13 +576,6 @@
             <div class="where">Biology Atrium</div>
           </td>
         </tr>
-        <tr>
-          <td class="time">16:00</td>
-          <td>
-            <div class="what">Farewell</div>
-            <div class="where">B/K/018</div>
-          </td>
-        </tr>
       </table>
     </div>
   </main>
