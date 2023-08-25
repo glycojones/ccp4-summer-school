@@ -245,7 +245,7 @@
           <td>
             <div class="what">Scaling/merging workshop</div>
             <div class="who">Johan Turkenburg (York)</div>
-            <div class="where">G/169 PC Room</div>
+            <div class="where">G/N/169 PC Room</div>
           </td>
         </tr>
         <tr class="break">
@@ -260,7 +260,7 @@
           <td>
             <div class="what">DIALS/DUI workshop</div>
             <div class="who">The DIALS team (Diamond)</div>
-            <div class="where">G/169 PC Room</div>
+            <div class="where">G/N/169 PC Room</div>
           </td>
         </tr>
         <tr class="break">
@@ -367,7 +367,7 @@
           <td>
             <div class="what">Coot workshop</div>
             <div class="who">Paul Bond (York)</div>
-            <div class="where">G/169 PC Room</div>
+            <div class="where">G/N/169 PC Room</div>
           </td>
         </tr>
         <tr class="break">
@@ -477,7 +477,7 @@
           <td>
             <div class="what">Molecular replacement workshop</div>
             <div class="who">Huw Jenkins (York)</div>
-            <div class="where">G/169 PC Room</div>
+            <div class="where">G/N/169 PC Room</div>
           </td>
         </tr>
         <tr class="break">
@@ -499,7 +499,7 @@
           <td class="time">17:00</td>
           <td>
             <div class="what">Serial crystallography</div>
-            <div class="who">Briony Yorke (Bradford)</div>
+            <div class="who">Briony Yorke (Leeds)</div>
             <div class="where">B/K/018</div>
           </td>
         </tr>
@@ -543,7 +543,7 @@
           <td>
             <div class="what">Refinement workshop</div>
             <div class="who">Rob Nicholls (MRC-LMB)</div>
-            <div class="where">G/169 PC Room</div>
+            <div class="where">G/N/169 PC Room</div>
           </td>
         </tr>
         <tr class="break">
